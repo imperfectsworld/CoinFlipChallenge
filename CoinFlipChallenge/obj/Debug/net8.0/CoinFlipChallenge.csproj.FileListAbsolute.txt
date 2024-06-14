@@ -1,0 +1,14 @@
+C:\Users\imper\source\repos\CoinFlipChallenge\CoinFlipChallenge\bin\Debug\net8.0\CoinFlipChallenge.exe
+C:\Users\imper\source\repos\CoinFlipChallenge\CoinFlipChallenge\bin\Debug\net8.0\CoinFlipChallenge.deps.json
+C:\Users\imper\source\repos\CoinFlipChallenge\CoinFlipChallenge\bin\Debug\net8.0\CoinFlipChallenge.runtimeconfig.json
+C:\Users\imper\source\repos\CoinFlipChallenge\CoinFlipChallenge\bin\Debug\net8.0\CoinFlipChallenge.dll
+C:\Users\imper\source\repos\CoinFlipChallenge\CoinFlipChallenge\bin\Debug\net8.0\CoinFlipChallenge.pdb
+C:\Users\imper\source\repos\CoinFlipChallenge\CoinFlipChallenge\obj\Debug\net8.0\CoinFlipChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imper\source\repos\CoinFlipChallenge\CoinFlipChallenge\obj\Debug\net8.0\CoinFlipChallenge.AssemblyInfoInputs.cache
+C:\Users\imper\source\repos\CoinFlipChallenge\CoinFlipChallenge\obj\Debug\net8.0\CoinFlipChallenge.AssemblyInfo.cs
+C:\Users\imper\source\repos\CoinFlipChallenge\CoinFlipChallenge\obj\Debug\net8.0\CoinFlipChallenge.csproj.CoreCompileInputs.cache
+C:\Users\imper\source\repos\CoinFlipChallenge\CoinFlipChallenge\obj\Debug\net8.0\CoinFlipChallenge.dll
+C:\Users\imper\source\repos\CoinFlipChallenge\CoinFlipChallenge\obj\Debug\net8.0\refint\CoinFlipChallenge.dll
+C:\Users\imper\source\repos\CoinFlipChallenge\CoinFlipChallenge\obj\Debug\net8.0\CoinFlipChallenge.pdb
+C:\Users\imper\source\repos\CoinFlipChallenge\CoinFlipChallenge\obj\Debug\net8.0\CoinFlipChallenge.genruntimeconfig.cache
+C:\Users\imper\source\repos\CoinFlipChallenge\CoinFlipChallenge\obj\Debug\net8.0\ref\CoinFlipChallenge.dll
